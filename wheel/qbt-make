@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkdir -p $OUTPUT_ARTIFACTS_DIR/python-src
+cp wheel-0.29.0.tar.gz $OUTPUT_ARTIFACTS_DIR/python-src/wheel.tar.gz
+
