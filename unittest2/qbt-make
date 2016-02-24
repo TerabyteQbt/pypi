@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkdir -p $OUTPUT_ARTIFACTS_DIR/python-whl
+cp unittest2-1.1.0-py2.py3-none-any.whl $OUTPUT_ARTIFACTS_DIR/python-whl/
+
